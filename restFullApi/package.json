@@ -1,0 +1,20 @@
+{
+  "name": "restfullapi",
+  "version": "1.0.0",
+  "description": "A rest full Api with raw Node Js",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Node",
+    "Js"
+  ],
+
+  "author": "Md Polash Miya",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.12"
+  }
+}
